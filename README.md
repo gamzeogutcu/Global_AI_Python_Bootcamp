@@ -30,5 +30,5 @@ This project is a Python implementation of the classic "Rock, Paper, Scissors" g
 2. Clone the repository or download the script.
 3. Run the script using a Python interpreter:
    ```bash
-   python rock_paper_scissors_GAMZE_OGUTCU.py
-4.Follow the on-screen prompts to play the game.
+   python rock_paper_scissors_GAMZE_OGUTCU.py  
+ 4.Follow the on-screen prompts to play the game.
